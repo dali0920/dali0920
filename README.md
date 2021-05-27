@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @dali0920
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m dali，Technology makes the world a better place！！！
+- 👀 I’m interested in swimming
 
-<!---
-dali0920/dali0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 258617235@qq.com
+
 Welcome cooperation and exchange
